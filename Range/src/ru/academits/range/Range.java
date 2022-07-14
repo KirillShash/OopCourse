@@ -1,3 +1,5 @@
+package ru.academits.range;
+
 public class Range {
     private double from;
     private double to;

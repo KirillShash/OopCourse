@@ -30,6 +30,6 @@ public class Range {
     }
 
     public boolean isInside(double number){
-        return false;
+        return true;
     }
 }
